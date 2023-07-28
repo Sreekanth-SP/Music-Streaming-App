@@ -1,5 +1,5 @@
 # Music-Streaming-App
-**[Deployment Link](http://13.232.16.158:8080/swagger-ui/index.html#/ "Swagger Link")**
+**[Deployment Link](http://3.109.202.193:8080/swagger-ui/index.html#/ "Swagger Link")**
 > The music streaming app project built with Spring Boot can serve as a versatile and feature-rich platform for users to access and enjoy music in various ways. We have leveraged the capabilities of Spring Boot, along with other powerful dependencies, to ensure a smooth and feature-rich experience for our users
 ---
 ## Frameworks And Languages:
@@ -99,7 +99,7 @@ The project utilizes several data structures, including:
 
 Once we developed and tested our music streaming app locally, next we have to deploy it to a cloud platform like AWS (Amazon Web Services) to make it accessible to users worldwide. AWS provides a robust and scalable infrastructure to host web applications, making it a popular choice for deploying Spring Boot applications.
 
-**Swagger Link** : `http://13.232.16.158:8080/swagger-ui/index.html#/`
+**Swagger Link** : `http://3.109.202.193:8080/swagger-ui/index.html#/`
 
 ---
 ## Project Summary:
