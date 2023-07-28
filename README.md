@@ -98,6 +98,8 @@ The project utilizes several data structures, including:
 
 Once we developed and tested our music streaming app locally, next we have to deploy it to a cloud platform like AWS (Amazon Web Services) to make it accessible to users worldwide. AWS provides a robust and scalable infrastructure to host web applications, making it a popular choice for deploying Spring Boot applications.
 
+**Swagger Link** : `http://52.66.243.103:8080/swagger-ui/index.html#/`
+
 ---
 ## Project Summary:
 
